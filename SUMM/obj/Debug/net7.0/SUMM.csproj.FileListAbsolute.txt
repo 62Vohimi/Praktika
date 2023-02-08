@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\bin\Debug\net7.0\SUMM.exe
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\bin\Debug\net7.0\SUMM.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\bin\Debug\net7.0\SUMM.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\bin\Debug\net7.0\SUMM.dll
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\bin\Debug\net7.0\SUMM.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.dll
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\refint\SUMM.dll
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\SUMM.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\SUMM\obj\Debug\net7.0\ref\SUMM.dll
