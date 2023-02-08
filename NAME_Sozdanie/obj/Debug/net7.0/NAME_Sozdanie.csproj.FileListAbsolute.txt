@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\bin\Debug\net7.0\NAME_Sozdanie.exe
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\bin\Debug\net7.0\NAME_Sozdanie.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\bin\Debug\net7.0\NAME_Sozdanie.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\bin\Debug\net7.0\NAME_Sozdanie.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\bin\Debug\net7.0\NAME_Sozdanie.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\refint\NAME_Sozdanie.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\NAME_Sozdanie.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME_Sozdanie\obj\Debug\net7.0\ref\NAME_Sozdanie.dll
