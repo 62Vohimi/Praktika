@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\bin\Debug\net7.0\NAME.exe
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\bin\Debug\net7.0\NAME.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\bin\Debug\net7.0\NAME.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\bin\Debug\net7.0\NAME.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\bin\Debug\net7.0\NAME.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\refint\NAME.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\NAME.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAME\obj\Debug\net7.0\ref\NAME.dll
