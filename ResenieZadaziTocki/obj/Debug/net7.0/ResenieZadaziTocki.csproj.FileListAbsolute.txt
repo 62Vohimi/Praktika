@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\bin\Debug\net7.0\ResenieZadaziTocki.exe
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\bin\Debug\net7.0\ResenieZadaziTocki.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\bin\Debug\net7.0\ResenieZadaziTocki.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\bin\Debug\net7.0\ResenieZadaziTocki.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\bin\Debug\net7.0\ResenieZadaziTocki.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\refint\ResenieZadaziTocki.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ResenieZadaziTocki.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ResenieZadaziTocki\obj\Debug\net7.0\ref\ResenieZadaziTocki.dll
