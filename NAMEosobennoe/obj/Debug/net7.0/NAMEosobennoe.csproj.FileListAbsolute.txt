@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\bin\Debug\net7.0\NAMEosobennoe.exe
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\bin\Debug\net7.0\NAMEosobennoe.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\bin\Debug\net7.0\NAMEosobennoe.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\bin\Debug\net7.0\NAMEosobennoe.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\bin\Debug\net7.0\NAMEosobennoe.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\refint\NAMEosobennoe.dll
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\NAMEosobennoe.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\NAMEosobennoe\obj\Debug\net7.0\ref\NAMEosobennoe.dll
