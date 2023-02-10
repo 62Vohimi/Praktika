@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\bin\Debug\net7.0\ReshenieZadaci.exe
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\bin\Debug\net7.0\ReshenieZadaci.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\bin\Debug\net7.0\ReshenieZadaci.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\bin\Debug\net7.0\ReshenieZadaci.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\bin\Debug\net7.0\ReshenieZadaci.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\refint\ReshenieZadaci.dll
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ReshenieZadaci.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\ReshenieZadaci\obj\Debug\net7.0\ref\ReshenieZadaci.dll
