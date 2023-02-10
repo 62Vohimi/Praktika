@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.AssemblyInfo.cs
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\bin\Debug\net7.0\Ramdom.exe
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\bin\Debug\net7.0\Ramdom.deps.json
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\bin\Debug\net7.0\Ramdom.runtimeconfig.json
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\bin\Debug\net7.0\Ramdom.dll
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\bin\Debug\net7.0\Ramdom.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.dll
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\refint\Ramdom.dll
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.pdb
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\Ramdom.genruntimeconfig.cache
+C:\Users\Asus\Desktop\PRAKTIKS\Ramdom\obj\Debug\net7.0\ref\Ramdom.dll
